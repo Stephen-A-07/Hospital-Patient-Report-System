@@ -71,8 +71,8 @@ project/
 Install dependencies:
 
 ```bash
-uv init
-uv add install pydantic
+uv sync
+uv run main.py
 ```
 
 ---
@@ -89,8 +89,8 @@ cd project
 ### 2. Install Dependencies
 
 ```bash
-uv init
-uv add install pydantic
+uv sync
+uv run main.py
 ```
 
 ### 3. Verify Required Files

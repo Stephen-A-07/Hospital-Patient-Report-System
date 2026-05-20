@@ -1,7 +1,7 @@
 [project]
 name = "hospitalreport-system"
 version = "0.1.0"
-description = "Add your description here"
+description = "A hospital patient report system built with clean code principles"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
