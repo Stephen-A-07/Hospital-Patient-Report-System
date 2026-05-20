@@ -1,4 +1,4 @@
-# Medical Prescription Report Generator
+# Hospital Patient Report System
 
 A modular Python project that generates patient prescription reports using validated doctor data, random medicine generation, and structured JSON reporting.
 
