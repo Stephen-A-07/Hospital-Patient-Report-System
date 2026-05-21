@@ -14,7 +14,8 @@ def get_doctor_by_specialization(specialization:str,doctors:list[Doctor])->Docto
   return randomly_selected_doctor
   
 def generate_prescription(doctor:Doctor)->list[str]:
-  random_prescription = list(random.sample(doctor.medicines,4))
+  count = random.randint(4,min(5,len(doctor.medicines)))
+  random_prescription = list(random.sample(doctor.medicines,count))
   logger.info(f"Selected doctor:{doctor} and prescription: {random_prescription}")
   return random_prescription
     
