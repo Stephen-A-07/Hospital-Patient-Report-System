@@ -8,10 +8,10 @@ from report import JsonReportGeneration,ConsoleReportGeneration
 def main():
     setup_logging()
     data = load_doctors_list()
-    patient_name = input("Enter patient name: ").lower()
+    patient_name = input("Enter patient name: ")
     patient_age = int(input("Enter patient age: "))
     patient_blood_group = input("Enter patient blood group (A+,B+..): ").upper()
-    patient_doctor_to_meet = input("Enter the doctor specialization to meet: ")
+    patient_doctor_to_meet = input("Enter the doctor specialization to meet: ").lower()
     
     patient = Patient(
         name=patient_name,

@@ -2,7 +2,7 @@
   {
     "doctor_id": "DOC-001",
     "name": "Dr. Arvind Rao",
-    "specialization": "Cardiologist",
+    "specialization": "cardiologist",
     "medicines": [
       "Aspirin",
       "Clopidogrel",
@@ -29,7 +29,7 @@
   {
     "doctor_id": "DOC-002",
     "name": "Dr. Sneha Kulkarni",
-    "specialization": "Neurologist",
+    "specialization": "neurologist",
     "medicines": [
       "Levetiracetam",
       "Carbamazepine",
@@ -56,7 +56,7 @@
   {
     "doctor_id": "DOC-003",
     "name": "Dr. Karthik Iyer",
-    "specialization": "Dermatologist",
+    "specialization": "dermatologist",
     "medicines": [
       "Hydrocortisone",
       "Clobetasol",
@@ -83,7 +83,7 @@
   {
     "doctor_id": "DOC-004",
     "name": "Dr. Priya Menon",
-    "specialization": "Orthopedist",
+    "specialization": "orthopedist",
     "medicines": [
       "Diclofenac",
       "Aceclofenac",
@@ -110,7 +110,7 @@
   {
     "doctor_id": "DOC-005",
     "name": "Dr. Rakesh Sharma",
-    "specialization": "Pediatrician",
+    "specialization": "pediatrician",
     "medicines": [
       "Paracetamol",
       "Ibuprofen",
@@ -137,7 +137,7 @@
   {
     "doctor_id": "DOC-006",
     "name": "Dr. Meera Nair",
-    "specialization": "Psychiatrist",
+    "specialization": "psychiatrist",
     "medicines": [
       "Sertraline",
       "Escitalopram",
@@ -164,7 +164,7 @@
   {
     "doctor_id": "DOC-007",
     "name": "Dr. Vivek Bhat",
-    "specialization": "Oncologist",
+    "specialization": "oncologist",
     "medicines": [
       "Cyclophosphamide",
       "Methotrexate",
@@ -191,7 +191,7 @@
   {
     "doctor_id": "DOC-008",
     "name": "Dr. Ananya Deshpande",
-    "specialization": "Gastroenterologist",
+    "specialization": "gastroenterologist",
     "medicines": [
       "Pantoprazole",
       "Rabeprazole",
@@ -218,7 +218,7 @@
   {
     "doctor_id": "DOC-009",
     "name": "Dr. Sandeep Verma",
-    "specialization": "Endocrinologist",
+    "specialization": "endocrinologist",
     "medicines": [
       "Metformin",
       "Glimepiride",
@@ -245,7 +245,7 @@
   {
     "doctor_id": "DOC-010",
     "name": "Dr. Pooja Reddy",
-    "specialization": "Pulmonologist",
+    "specialization": "pulmonologist",
     "medicines": [
       "Salbutamol",
       "Formoterol",
